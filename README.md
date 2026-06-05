@@ -1,9 +1,5 @@
+My website: 
+- [https://dofahy.github.io/](https://dofahy.github.io/)
 
-I've been involved in IT and coding since 2015.\
-Current work:
-- [IrishVPN](https://irish-vpn.com): A hosted wireguard VPN service
-
-Previous work:
-- [Solaris](https://en.wikipedia.org/wiki/Oracle_Solaris): A unix operating system
-
-I have a private forgejo server in the home office which I use for most of my projects.
+Finished getting my home Forgejo server up and running. \
+Finding it excellent as a replacement and reliable local alternative to GitHub.
